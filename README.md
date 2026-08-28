@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./assets/drajk.png" width="420px" alt="Drajk">
@@ -26,16 +25,14 @@ Age:       25
 Role:      Developer
 Online:    Since 2014
 Culture:   Channer / Old Internet
-Status:    Building things...
+Status:    Fazendo Merdas...
 ```
 
 ## `> about_me`
 
 Dev, curioso e habitante da internet desde 2014.
 
-Cresci explorando fóruns, imageboards, comunidades obscuras e diferentes cantos da web.
-
-Gosto de entender como as coisas funcionam por trás da interface.
+Cresci explorando fóruns, imageboards.
 
 ## `> interests`
 
@@ -63,6 +60,63 @@ Tools        → Git • GitHub • VS Code • Terminal
 Currently    → learning, experimenting & building
 ```
 
+## `> osint_tools`
+
+```text
+┌─[ OSINT ]
+│
+├── Maltego
+├── SpiderFoot
+├── Sherlock
+├── theHarvester
+├── Shodan
+├── Censys
+├── Amass
+├── ExifTool
+├── Recon-ng
+└── OSINT Framework
+```
+
+## `> offensive_security`
+
+```text
+┌─[ RECON / NETWORK ]
+│
+├── Nmap
+├── Wireshark
+├── Nuclei
+├── Gobuster
+└── ffuf
+│
+├─[ WEB SECURITY ]
+│
+├── Burp Suite
+├── OWASP ZAP
+└── SQLmap
+│
+├─[ SECURITY TESTING ]
+│
+├── Metasploit Framework
+├── Hydra
+├── John the Ripper
+└── Hashcat
+```
+
+## `> environment`
+
+```bash
+drajk@machine:~$ ./environment
+
+[+] Kali Linux
+[+] Linux
+[+] Windows
+[+] Git
+[+] Python
+[+] Bash
+[+] PowerShell
+[+] Terminal
+```
+
 ## `> timeline`
 
 ```text
@@ -81,11 +135,7 @@ Currently    → learning, experimenting & building
 
 ## `> philosophy`
 
-> The internet was more interesting when you had to explore it.
-
-I build because I'm curious.  
-I research because I want to understand.  
-Sometimes I break things just to figure out how they work.
+> Entre muitas outras coisas, tu eras para mim uma janela através da qual podia ver as ruas. Sozinho não o podia fazer.
 
 ---
 
@@ -95,6 +145,6 @@ Sometimes I break things just to figure out how they work.
 
 `ONLINE SINCE 2014`
 
-**There is always another rabbit hole.**
+**Todos veem o que você parece ser. Mas poucos sabem o que você realmente é.**
 
 </div>
