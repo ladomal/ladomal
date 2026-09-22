@@ -3,12 +3,11 @@
 <img src="./assets/drajk.png" width="420px" alt="ladomal">
 
 <pre>
-██╗      █████╗ ██████╗  ██████╗ ███╗   ███╗ █████╗ ██╗
-██║     ██╔══██╗██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║
-██║     ███████║██║  ██║██║   ██║██╔████╔██║███████║██║
-██║     ██╔══██║██║  ██║██║   ██║██║╚██╔╝██║██╔══██║██║
-███████╗██║  ██║██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██║███████╗
-╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
+██       █████  ██████   ██████  ███    ███  █████  ██
+██      ██   ██ ██   ██ ██    ██ ████  ████ ██   ██ ██
+██      ███████ ██   ██ ██    ██ ██ ████ ██ ███████ ██
+██      ██   ██ ██   ██ ██    ██ ██  ██  ██ ██   ██ ██
+███████ ██   ██ ██████   ██████  ██      ██ ██   ██ ███████
 </pre>
 
 ### `Developer • Channer • Online since 2014`
@@ -32,7 +31,7 @@ Status:    Fazendo merdas...
 
 Dev, curioso e habitante da internet desde 2014.
 
-Cresci explorando fóruns, imageboards e tudo que existe nas partes mais estranhas da internet.
+Cresci explorando fóruns, imageboards e partes estranhas da internet.
 
 Gosto de entender como as coisas funcionam — e quebrá-las quando necessário para descobrir.
 
