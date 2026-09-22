@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/drajk.png" width="420px" alt="Drajk">
+<img src="./assets/drajk.png" width="420px" alt="ladomal">
 
-<pre align="center">
+<pre>
 ██╗      █████╗ ██████╗  ██████╗ ███╗   ███╗ █████╗ ██╗
 ██║     ██╔══██╗██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║
 ██║     ███████║██║  ██║██║   ██║██╔████╔██║███████║██║
@@ -20,24 +20,26 @@
 ```text
 > whoami
 
-Alias:     Drajk / Szandorboy
+Alias:     ladomal / drajk
 Age:       25
 Role:      Developer
 Online:    Since 2014
 Culture:   Channer / Old Internet
-Status:    Fazendo Merdas...
+Status:    Fazendo merdas...
 ```
 
 ## `> about_me`
 
 Dev, curioso e habitante da internet desde 2014.
 
-Cresci explorando fóruns, imageboards.
+Cresci explorando fóruns, imageboards e tudo que existe nas partes mais estranhas da internet.
+
+Gosto de entender como as coisas funcionam — e quebrá-las quando necessário para descobrir.
 
 ## `> interests`
 
 ```bash
-drajk@internet:~$ cat interests.txt
+ladomal@internet:~$ cat interests.txt
 
 [+] Development
 [+] Cybersecurity
@@ -94,18 +96,18 @@ Currently    → learning, experimenting & building
 ├── OWASP ZAP
 └── SQLmap
 │
-├─[ SECURITY TESTING ]
-│
-├── Metasploit Framework
-├── Hydra
-├── John the Ripper
-└── Hashcat
+└─[ SECURITY TESTING ]
+   │
+   ├── Metasploit Framework
+   ├── Hydra
+   ├── John the Ripper
+   └── Hashcat
 ```
 
 ## `> environment`
 
 ```bash
-drajk@machine:~$ ./environment
+ladomal@machine:~$ ./environment
 
 [+] Kali Linux
 [+] Linux
@@ -115,6 +117,21 @@ drajk@machine:~$ ./environment
 [+] Bash
 [+] PowerShell
 [+] Terminal
+```
+
+## `> projects`
+
+```text
+┌─[ CURRENT ]
+│
+├── Alexandria
+│   └── Passive OSINT / Evidence Correlation
+│
+├── Automation
+│   └── Scripts, tools & experiments
+│
+└── Misc
+    └── Things created at 3 AM for absolutely no reason
 ```
 
 ## `> timeline`
@@ -128,6 +145,7 @@ drajk@machine:~$ ./environment
                      ├── development
                      ├── linux
                      ├── cybersecurity
+                     ├── osint
                      └── countless unfinished projects
                      │
 2026 ────────────────┘ still here.
@@ -141,7 +159,7 @@ drajk@machine:~$ ./environment
 
 <div align="center">
 
-### `DRAJK // SZANDORBOY`
+### `LADOMAL // DRAJK`
 
 `ONLINE SINCE 2014`
 
